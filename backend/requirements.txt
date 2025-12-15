@@ -1,0 +1,24 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+
+# AI and LangChain
+langchain
+langchain-openai
+openai
+
+# HTTP client for scrapers
+httpx
+aiohttp
+
+# Data validation
+pydantic
+pydantic-settings
+
+# Environment variables
+python-dotenv
+
+# CORS
+python-multipart
+
+
