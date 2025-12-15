@@ -9,8 +9,10 @@ An AI-powered job search assistant that aggregates job listings from top compani
 
 ## 🎬 Demo
 
-<!-- Add your demo video/gif here -->
-![Demo](demo.gif)
+
+https://github.com/user-attachments/assets/f4557c34-a84d-43bf-8194-7902c167155a
+
+
 
 ## ✨ Features
 
